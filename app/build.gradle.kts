@@ -50,10 +50,13 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
-    // networking
+
     implementation(libs.glide)
     implementation(libs.retrofit)
     implementation(libs.converter.gson)
     implementation(libs.logging.interceptor)
+    implementation(libs.androidx.swiperefreshlayout)
+    implementation(libs.androidx.paging.runtime.ktx)
+    implementation(libs.androidx.lifecycle.viewmodel.ktx)
 
 }

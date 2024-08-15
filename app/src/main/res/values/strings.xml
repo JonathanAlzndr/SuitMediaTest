@@ -4,4 +4,8 @@
     <string name="hint_palindrome">Palindrome</string>
     <string name="hint_next">Next</string>
     <string name="hint_check">Check</string>
+    <string name="welcome">Welcome</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="hint_choose_a_user">Choose a User</string>
+    <string name="full_name">%s %s</string>
 </resources>
